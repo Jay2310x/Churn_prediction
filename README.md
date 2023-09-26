@@ -14,5 +14,14 @@ The Data includes the following:
 Personal Data (gender, children, whether senior citizen, dependents...)
 Services Related (Tenure with the provider, payment method, internet packs purchased, special offers...)
 Charges being incurred (Amount of recharge done per month...)
+
+
 <br>
 		2.Market Basket Analysis in Python using Apriori Algorithm
+<br>
+Huge retailers pivot on a detailed market basket analysis to uncover associations between items. Using this valuable information, they are able to carry out various strategies to improve their revenue:
+-Associated products are placed close to each other, so that buyers of one item would be prompted to buy the other.
+-Discounts can be applied to only one of the associated products.
+
+Data scientists are able to carry out Market Basket Analysis by implementing Association Rule Mining. Association Rule Mining is a rule-based machine learning method that helps to uncover meaningful correlations between different products according to their co-occurrence in a data set.
+There are three core measures that are used in Association Rule Learning, which are: Support, Confidence, and Lift.
