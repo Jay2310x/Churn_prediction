@@ -1,4 +1,5 @@
-# CodeClause
+# Churn Prediction In Telecom using Logistic Regression
+
 CodeClause Internship Program
 Tasks/Projects List:
 <br>
